@@ -81,7 +81,7 @@ zh-tw
 
 | Elasticsearch  | Plugin         | Release date |
 | -------------- | -------------- | ------------ |
-| 2.4.1          | 2.4.1.0        | Oct 25, 2016 |
+| 2.4.2          | 2.4.2.0        | Jan 06, 2017 |
 | 2.3.3          | 2.3.3.0        | Jun 11, 2016 |
 | 2.3.2          | 2.3.2.0        | Jun 11, 2016 |
 | 2.3.1          | 2.3.1.0        | Apr 11, 2016 |
@@ -105,7 +105,7 @@ zh-tw
 
 ## Installation Elasticsearch 2.x
 
-    ./bin/plugin install https://github.com/Manko10/elasticsearch-langdetect/releases/download/2.4.1.0/elasticsearch-langdetect-2.4.1.0-plugin.zip
+    ./bin/plugin install https://github.com/phoerious/elasticsearch-langdetect/releases/download/2.4.2.0/elasticsearch-langdetect-2.4.2.0-plugin.zip
 
 ## Installation Elasticsearch 1.x
 
